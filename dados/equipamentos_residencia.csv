@@ -1,0 +1,11 @@
+equipamento,categoria,quantidade,potencia_w,horas_dia,dias_mes,tipo,observacao
+Geladeira Procel A (~300 L),refrigeracao,1,55,24,30,estimado,"Potência média equivalente a ~40 kWh/mês de etiqueta ENCE típica (o compressor liga e desliga)."
+Chuveiro elétrico (modo inverno),banho,1,5500,0.4,30,estimado,"3 pessoas x 8 min = 24 min/dia (0,4 h). Potência típica de 5.500 W."
+Lâmpada fluorescente compacta,iluminacao,10,15,5,30,estimado,"10 pontos de luz acesos 5 h por dia."
+TV LED 40 polegadas,entretenimento,1,80,5,30,estimado,
+Notebook,informatica,1,60,6,30,estimado,
+Ventilador,climatizacao,1,80,4,30,estimado,"Média anual; no verão tende a ser maior."
+Máquina de lavar roupa,limpeza,1,500,1,12,estimado,"12 ciclos por mês."
+Micro-ondas,cozinha,1,1200,0.25,30,estimado,"15 min por dia."
+Ferro de passar,limpeza,1,1000,1,8,estimado,"8 dias de uso por mês."
+Roteador e carregadores (standby),standby,1,15,24,30,estimado,"Aparelhos que ficam ligados o tempo todo."
